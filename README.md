@@ -47,3 +47,6 @@ Link for repo:https://github.com/Srajan-Jaiswal/practice_competitive_programming
 
 # Day 7 : 7th aug 2020
 Solved first 3 questions of August long challenge(Codechef). 
+
+# Day 8 : 8th aug 2020
+Solved the 4th question of August long challenge(Codechef).
