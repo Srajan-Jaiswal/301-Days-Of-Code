@@ -56,3 +56,6 @@ Solved the 4th question of August long challenge(Codechef).
 Solved the CHEFWED problem(partial) in codechef long challenge.
 
 
+# Day 10 : 10th aug 2020
+Tried to solve CHEFWED AC.
+
