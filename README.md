@@ -59,3 +59,6 @@ Solved the CHEFWED problem(partial) in codechef long challenge.
 # Day 10 : 10th aug 2020
 Tried to solve CHEFWED AC.
 
+# Day 11 : 11 th aug 2020
+Finding Palindrome in a linked list.
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/check_palindrome_in_LL.cpp
