@@ -50,3 +50,9 @@ Solved first 3 questions of August long challenge(Codechef).
 
 # Day 8 : 8th aug 2020
 Solved the 4th question of August long challenge(Codechef).
+
+
+# Day 9 : 9th aug 2020
+Solved the CHEFWED problem(partial) in codechef long challenge.
+
+
