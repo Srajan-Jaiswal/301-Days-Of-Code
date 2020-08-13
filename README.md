@@ -70,4 +70,4 @@ Solved CHEFWED Problem AC. (100 pts.) Codechef Long Challenge.
 Subset Sum Problem using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation).
 
 Equal Sum Partition using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation). 
-
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Equal_partition_Sum.cpp
