@@ -67,3 +67,5 @@ https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/c
 CHEFWED Problem AC. (100 pts.).
 Subset Sum Problem using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation).
 
+Equal Sum Partition using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation). 
+
