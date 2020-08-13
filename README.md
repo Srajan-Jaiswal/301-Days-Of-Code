@@ -62,3 +62,7 @@ Tried to solve CHEFWED AC.
 # Day 11 : 11 th aug 2020
 Finding Palindrome in a linked list.
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/check_palindrome_in_LL.cpp
+
+# Day 12 : 12th aug 2020
+CHEFWED Problem AC. (100 pts.).
+
