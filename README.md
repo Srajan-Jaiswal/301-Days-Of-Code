@@ -4,6 +4,7 @@ This repository contains programming questions with consistency
 # Day 1 : 1st aug 2020 
 Code String problems conversion of Prefix to Infix and Infix to Postfix.
 Link for code:https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/Strings%20Questions/prefix%20%20to%20infix.cpp
+
 Link for code:https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/Strings%20Questions/Infix%20to%20Postfix.cpp
 
 # Day 2 : 2nd aug 2020 
@@ -64,7 +65,8 @@ Finding Palindrome in a linked list.
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/check_palindrome_in_LL.cpp
 
 # Day 12 : 12th aug 2020
-CHEFWED Problem AC. (100 pts.).
+Solved CHEFWED Problem AC. (100 pts.) Codechef Long Challenge.
+
 Subset Sum Problem using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation).
 
 Equal Sum Partition using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation). 
