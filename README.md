@@ -73,12 +73,23 @@ Subset Sum Problem using recursion and then optimize it using Dynamic Programmin
 Equal Sum Partition using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation). 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Equal_partition_Sum.cpp
 
-# Day 12 : 12th aug 2020
+# Day 14 : 14 th aug 2020
+Solved Problems on gfg and leetcode on Dynamic Programming.
 
-# Day 14 : 12th aug 2020
+# Day 15 : 15th aug 2020
 Code the problem Cell Mitosis using Dynamic Programing(adv. dp).
+
 Link of code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/cell_mitosis(adv._dp).cpp
 Code the problem  count the subsets of a given sum.
+
 Link for Code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/count_subsetsofgivensum.cpp
-# Day 12 : 12th aug 2020
-# Day 12 : 12th aug 2020
+
+# Day 16 : 16th aug 2020
+Solved a SPOJ problem MIXTURES using Dynamic Programming concept.
+
+Link for code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Mixtures_Spoj.cpp
+
+Solved the problem  Optimal Game Strategy from geeks for geeks using  recursion  for optimised it  using memorisation  and  tabulation.
+
+Link for code:https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/optimal_game_strategy.cpp
+# Day 17 : 17th aug 2020
