@@ -68,6 +68,17 @@ https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/c
 Solved CHEFWED Problem AC. (100 pts.) Codechef Long Challenge.
 
 Subset Sum Problem using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation).
+# Day 13 : 13th aug 2020
 
 Equal Sum Partition using recursion and then optimize it using Dynamic Programming(Memorisation and Tabulation). 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Equal_partition_Sum.cpp
+
+# Day 12 : 12th aug 2020
+
+# Day 14 : 12th aug 2020
+Code the problem Cell Mitosis using Dynamic Programing(adv. dp).
+Link of code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/cell_mitosis(adv._dp).cpp
+Code the problem  count the subsets of a given sum.
+Link for Code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/count_subsetsofgivensum.cpp
+# Day 12 : 12th aug 2020
+# Day 12 : 12th aug 2020
