@@ -120,3 +120,8 @@ Link for code:https://github.com/Srajan-Jaiswal/practice_competitive_programming
 Solved a problem Partitioning Palindrome with recursion and optimised it using memorisation technique.
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Partioning_Palindrome.cpp
+
+Solved a problem Boolean Parenthisation and solved it using the memorisation approach using unordred_map.
+
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Boolean_Parenthesis.cpp
+
