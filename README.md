@@ -116,6 +116,7 @@ Link for code: https://github.com/Srajan-Jaiswal/practice_competitive_programmin
 Solved the problem  Optimal Game Strategy from geeks for geeks using  recursion  for optimised it  using memorisation  and  tabulation.
 
 Link for code:https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/optimal_game_strategy.cpp
+
 # Day 17 : 17th aug 2020
 Solved a problem Partitioning Palindrome with recursion and optimised it using memorisation technique.
 
@@ -124,4 +125,11 @@ https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/D
 Solved a problem Boolean Parenthisation and solved it using the memorisation approach using unordred_map.
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Boolean_Parenthesis.cpp
+
+# Day 18 : 18th aug 2020
+
+Optimised Boolean Parenthisation  top down approach using 3-D array.
+
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Boolean_Parenthesis.cpp
+
 
