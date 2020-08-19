@@ -142,5 +142,7 @@ Solved a GFG problem Longest Commom Substring using Dynamic Programming approach
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Longest_commom_substring.cpp
 
+Code the problem  Shortest Commmon Supersequence using Dynamic Programming(Memorisation approach).
 
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Shortest_Common_Supersequence.cpp
 
