@@ -132,11 +132,15 @@ Optimised Boolean Parenthisation  top down approach using 3-D array.
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Boolean_Parenthesis.cpp
 
-# Day 18 : 18th aug 2020
+# Day 19 : 19th aug 2020
 Code some basics python programs.
 
 Code Longest Common Substring using Dynamic Programming approaches.
 
+# Day 20 : 20th aug 2020
+Solved a GFG problem Longest Commom Substring using Dynamic Programming approach.
+
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Longest_commom_substring.cpp
 
 
 
