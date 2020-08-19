@@ -132,4 +132,11 @@ Optimised Boolean Parenthisation  top down approach using 3-D array.
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Boolean_Parenthesis.cpp
 
+# Day 18 : 18th aug 2020
+Code some basics python programs.
+
+
+
+
+
 
