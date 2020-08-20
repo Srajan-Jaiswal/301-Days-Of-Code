@@ -146,3 +146,6 @@ Code the problem  Shortest Commmon Supersequence using Dynamic Programming(Memor
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Shortest_Common_Supersequence.cpp
 
+Code the problem Min number of insertions deletions to  make string a as string b  using DP.
+
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/MInimum_No_deletions.cpp
