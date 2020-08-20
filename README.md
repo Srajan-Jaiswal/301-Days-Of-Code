@@ -151,6 +151,6 @@ Code the problem Min number of insertions deletions to  make string a as string 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/MInimum_No_deletions.cpp
 
 # Day 21: 21st aug 2020
-Solved the Probelem Longest Palindromic Subsequence using Dynamic Programming and print the LPS.
+Solved the Problem Longest Palindromic Subsequence using Dynamic Programming and print the LPS.
 
 Link for code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Longest_Palindromic_Subsequence.cpp
