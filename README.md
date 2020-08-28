@@ -163,3 +163,18 @@ https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/signin.da
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/signup.dart
 
+# Day 23: 23st aug 2020
+Work on  my project based on Android/IOS Devlopment QuizBuilder App worked on Authentication of User login from Sign Up/Sign In page to firebase database.
+
+https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/authentication.dart
+
+# Day 24: 24st aug 2020
+Work on  my project based on Android/IOS Devlopment QuizBuilder App.
+
+https://github.com/Srajan-Jaiswal/QuizBuilder-App
+
+# Day 25: 25st aug 2020
+Work on  my project based on Android/IOS Devlopment QuizBuilder App
+
+https://github.com/Srajan-Jaiswal/QuizBuilder-App
+
