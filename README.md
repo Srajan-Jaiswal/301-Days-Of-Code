@@ -156,6 +156,10 @@ Solved the Problem Longest Palindromic Subsequence using Dynamic Programming and
 Link for code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Longest_Palindromic_Subsequence.cpp
 
 
+# Day 22: 22st aug 2020
+Work on  my project based on Android/IOS Devlopment QuizBuilder App worked on Sign Up/Sign In page UI.
 
+https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/signin.dart
 
+https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/signup.dart
 
