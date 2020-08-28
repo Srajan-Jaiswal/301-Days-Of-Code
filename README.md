@@ -178,3 +178,16 @@ Work on  my project based on Android/IOS Devlopment QuizBuilder App
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
 
+# Day 26: 26st aug 2020
+Work on  my project based on Android/IOS Devlopment QuizBuilder App.
+
+https://github.com/Srajan-Jaiswal/QuizBuilder-App
+
+Solved Problems on heap data structure
+
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/building_heaps(optimised).cpp
+
+
+
+
+
