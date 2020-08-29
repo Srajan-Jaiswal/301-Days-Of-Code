@@ -205,7 +205,7 @@ https://github.com/Srajan-Jaiswal/QuizBuilder-App
 # Day 30: 30th aug 2020
 Solved one Question in  Google Online Challenge(GOC)-2020.
 
-
+Participating in Codechef August Lunchtime Contest.
 
 
 
