@@ -156,29 +156,29 @@ Solved the Problem Longest Palindromic Subsequence using Dynamic Programming and
 Link for code: https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/DynamicProgramming/Longest_Palindromic_Subsequence.cpp
 
 
-# Day 22: 22st aug 2020
+# Day 22: 22nd aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App worked on Sign Up/Sign In page UI.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/signin.dart
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/signup.dart
 
-# Day 23: 23st aug 2020
+# Day 23: 23rd aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App worked on Authentication of User login from Sign Up/Sign In page to firebase database.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App/blob/master/lib/view/authentication.dart
 
-# Day 24: 24st aug 2020
+# Day 24: 24th aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
 
-# Day 25: 25st aug 2020
+# Day 25: 25th aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
 
-# Day 26: 26st aug 2020
+# Day 26: 26th aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
@@ -187,20 +187,24 @@ Solved Problems on heap data structure
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/building_heaps(optimised).cpp
 
-# Day 27: 27st aug 2020
+# Day 27: 27th aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
 
-# Day 28: 28st aug 2020
+# Day 28: 28th aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
 
-# Day 29: 29st aug 2020
+# Day 29: 29th aug 2020
 Work on  my project based on Android/IOS Devlopment QuizBuilder App.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
+
+# Day 30: 30th aug 2020
+Solved one Question in  Google Online Challenge(GOC)-2020.
+
 
 
 
