@@ -202,10 +202,17 @@ Work on  my project based on Android/IOS Devlopment QuizBuilder App.
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App
 
-# Day 30: 30th aug 2020
 Solved one Question in  Google Online Challenge(GOC)-2020.
 
-Participating in Codechef August Lunchtime Contest.
+# Day 30: 30th aug 2020
+
+Solved Leetcode Prroblems 
+
+https://leetcode.com/problems/two-sum/
+
+https://leetcode.com/problems/maximum-product-subarray/
+
+
 
 
 
