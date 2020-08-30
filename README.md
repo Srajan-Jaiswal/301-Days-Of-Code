@@ -206,7 +206,7 @@ Solved one Question in  Google Online Challenge(GOC)-2020.
 
 # Day 30: 30th aug 2020
 
-Solved Leetcode Prroblems 
+Solved Leetcode Problems 
 
 https://leetcode.com/problems/two-sum/
 
