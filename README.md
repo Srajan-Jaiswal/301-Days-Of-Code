@@ -219,4 +219,10 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Maximum%20Produc
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Combination%20Sum.cpp
 
+# Day 32: 1 st sept 2020
+Solved Leetcode Problems
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Unique%20Paths.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/find-first-and-last-position-of-element-in-sorted-array.cpp
 
