@@ -241,4 +241,6 @@ Preparing for aptitude test for Newzera interview round 1.
 Revised Binary Tree data structure:
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/breadthFirstSearch.cpp
 
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/count_no_of_nodes.cpp
+
 
