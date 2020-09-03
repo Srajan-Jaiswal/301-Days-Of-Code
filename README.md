@@ -212,7 +212,11 @@ https://leetcode.com/problems/two-sum/
 
 https://leetcode.com/problems/maximum-product-subarray/
 
+# Day 31: 31th aug 2020
+Solved Leetcode Problems
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Maximum%20Product%20of%20three%20numbers.cpp
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Combination%20Sum.cpp
 
 
