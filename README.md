@@ -226,3 +226,12 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Unique%20Paths.c
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/find-first-and-last-position-of-element-in-sorted-array.cpp
 
+
+# Day 32: 2nd sept 2020
+Solved Leetcode code Problems
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/search-in-rotated-sorted-array.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/subsets.cpp
+
+
