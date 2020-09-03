@@ -234,4 +234,11 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/search-in-rotate
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/subsets.cpp
 
+# Day 33: 3rd sept 2020
+
+Preparing for aptitude test for Newzera interview round 1.
+
+Revised Binary Tree data structure:
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/breadthFirstSearch.cpp
+
 
