@@ -281,3 +281,11 @@ https://github.com/Srajan-Jaiswal/Python-Programming
 Implemented Basic Programs of Graphics in C.
 
 https://github.com/Srajan-Jaiswal/Graphics-In-C
+
+# Day 40: 10th sept 2020
+Solved Leetcode problems.
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/binary-tree-level-order-traversal-ii.cpp
+
+
+
