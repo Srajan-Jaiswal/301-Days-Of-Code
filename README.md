@@ -243,4 +243,9 @@ https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/b
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/count_no_of_nodes.cpp
 
+# Day 34: 4th sept 2020
+Solved Leetcode problems on binary trees.
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems
+
 
