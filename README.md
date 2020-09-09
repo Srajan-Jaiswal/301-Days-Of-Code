@@ -253,4 +253,9 @@ Solved Leetcode problems on binary trees.
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems
 
+# Day 36: 6th sept 2020
+Solved Leetcode problems on binary trees.
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems
+
 
