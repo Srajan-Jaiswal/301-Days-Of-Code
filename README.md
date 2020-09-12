@@ -295,3 +295,11 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/binary-tree-maxi
 
 September Long Challenge: https://www.codechef.com/SEPT20B
 
+# Day 42: 11th sept 2020
+
+Codechef Long Challenge: https://www.codechef.com/SEPT20B
+
+Solved leetcode problem: https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/binary-tree-preorder-traversal.cpp
+
+Give Codeforces Round #670 (Div. 2) : https://codeforces.com/contest/1406 
+
