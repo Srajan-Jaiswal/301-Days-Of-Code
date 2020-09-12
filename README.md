@@ -295,7 +295,7 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/binary-tree-maxi
 
 September Long Challenge: https://www.codechef.com/SEPT20B
 
-# Day 42: 11th sept 2020
+# Day 42: 12th sept 2020
 
 Codechef Long Challenge: https://www.codechef.com/SEPT20B
 
