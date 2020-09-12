@@ -291,3 +291,7 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/binary-tree-righ
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/binary-tree-maximum-path-sum.cpp
 
+# Day 41: 11th sept 2020
+
+September Long Challenge: https://www.codechef.com/SEPT20B
+
