@@ -303,10 +303,11 @@ Solved leetcode problem: https://github.com/Srajan-Jaiswal/Leetcode-Problems/blo
 
 Give Codeforces Round #670 (Div. 2) : https://codeforces.com/contest/1406 
 
-
 # Day 43: 13th sept 2020
 
 Codechef Long Challenge: https://www.codechef.com/SEPT20B
 
+# Day 44: 14th sept 2020
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master
 
 
