@@ -310,4 +310,12 @@ Codechef Long Challenge: https://www.codechef.com/SEPT20B
 # Day 44: 14th sept 2020
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master
 
+# Day 45: 15th sept 2020
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master
+
+Revised Heaps: https://github.com/Srajan-Jaiswal/practice_competitive_programming/tree/master/Heaps
+
+
+
+
 
