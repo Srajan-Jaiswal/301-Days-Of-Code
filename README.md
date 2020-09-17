@@ -318,6 +318,15 @@ Revised Heaps: https://github.com/Srajan-Jaiswal/practice_competitive_programmin
  # Day 46: 16th sept 2020
 
  https://github.com/Srajan-Jaiswal/practice_competitive_programming/tree/master/Heaps
+ 
+ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/kth-largest-element-in-an-array.cpp
 
+ # Day 47: 17th sept 2020
+ 
+ Solved Leetcode Problems.
+ 
+ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/sort-an-array.cpp
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/top-k-frequent-elements.cpp
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/k-closest-points-to-origin.cpp
