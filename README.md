@@ -330,3 +330,7 @@ Revised Heaps: https://github.com/Srajan-Jaiswal/practice_competitive_programmin
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/top-k-frequent-elements.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/k-closest-points-to-origin.cpp
+
+# Day 48: 18th sept 2020
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.cpp
