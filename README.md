@@ -334,3 +334,10 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/k-closest-points
 # Day 48: 18th sept 2020
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.cpp
+
+# Day 49: 19th sept 2020
+
+Implemented basic algorithms in python.
+
+https://github.com/Srajan-Jaiswal/Python-Programming
+
