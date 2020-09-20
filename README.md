@@ -341,3 +341,8 @@ Implemented basic algorithms in python.
 
 https://github.com/Srajan-Jaiswal/Python-Programming
 
+# Day 50: 20th sept 2020
+
+Codechef Cookoff Challenge
+
+https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/bowlers_strategy.cpp
