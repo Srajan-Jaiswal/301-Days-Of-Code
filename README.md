@@ -341,8 +341,37 @@ Implemented basic algorithms in python.
 
 https://github.com/Srajan-Jaiswal/Python-Programming
 
+Worked on the UI of Pick_the_UI Android/IOS mobile app. 
+
+https://github.com/Srajan-Jaiswal/Pick-the-UI
+
 # Day 50: 20th sept 2020
 
 Codechef Cookoff Challenge
 
 https://github.com/Srajan-Jaiswal/practice_competitive_programming/blob/master/bowlers_strategy.cpp
+
+Worked on the UI of Pick_the_UI Android/IOS mobile app. 
+
+https://github.com/Srajan-Jaiswal/Pick-the-UI
+
+# Day 51: 21st sept 2020
+
+Practice Codeforces Contests Problems.
+
+https://github.com/Srajan-Jaiswal/Codeforces-Contests
+
+Worked on the UI of Pick_the_UI Android/IOS mobile app. 
+
+https://github.com/Srajan-Jaiswal/Pick-the-UI
+
+# Day 52: 22nd sept 2020
+
+Practice Codeforces Contests Problems.
+
+https://github.com/Srajan-Jaiswal/Codeforces-Contests
+
+Worked on the UI of Pick_the_UI Android/IOS mobile app. 
+
+https://github.com/Srajan-Jaiswal/Pick-the-UI
+
