@@ -375,3 +375,33 @@ Worked on the UI of Pick_the_UI Android/IOS mobile app.
 
 https://github.com/Srajan-Jaiswal/Pick-the-UI
 
+# Day 53: 23rd sept 2020
+
+Practice Codeforces Contests Problems.
+
+https://github.com/Srajan-Jaiswal/Codeforces-Contests
+
+Worked on the UI of Pick_the_UI Android/IOS mobile app. 
+
+https://github.com/Srajan-Jaiswal/Pick-the-UI
+
+
+
+# Day 54: 24th sept 2020
+
+Practice Codeforces Contests Problems.
+
+https://github.com/Srajan-Jaiswal/Codeforces-Contests
+
+Worked on the UI of Pick_the_UI Android/IOS mobile app. 
+
+https://github.com/Srajan-Jaiswal/Pick-the-UI
+
+Code couple of Algorithms in Computer Graphics.
+
+https://github.com/Srajan-Jaiswal/Graphics-In-C
+
+
+
+
+
