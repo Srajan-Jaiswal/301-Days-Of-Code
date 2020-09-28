@@ -439,6 +439,16 @@ Worked on the minor Project Probability Distribution app in C.
 
 https://github.com/Srajan-Jaiswal/Probability_distributions
 
+# Day 57: 27th sept 2020
+
+Worked on the minor Project Probability Distribution app in C.
+
+https://github.com/Srajan-Jaiswal/Probability_distributions
+
+Solved 2 out of 6 questions in the CodeAgon contest in interviewbit.
+
+https://www.interviewbit.com/contest/codeagon-2020/
+
 
 
 
