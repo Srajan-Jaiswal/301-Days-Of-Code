@@ -433,6 +433,14 @@ Worked on the UI of Pick_the_UI Android/IOS mobile app.
 
 https://github.com/Srajan-Jaiswal/Pick-the-UI
 
+# Day 56: 26th sept 2020
+
+Worked on the minor Project Probability Distribution app in C.
+
+https://github.com/Srajan-Jaiswal/Probability_distributions
+
+
+
 
 
 
