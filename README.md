@@ -455,6 +455,16 @@ Worked on the minor Project Probability Distribution app in C.
 
 https://github.com/Srajan-Jaiswal/Probability_distributions
 
+# Day 59: 29th sept 2020
+
+Basic python practice programs.
+
+https://github.com/Srajan-Jaiswal/Python-Programming
+
+Worked on the minor Project Probability Distribution app in C.
+
+https://github.com/Srajan-Jaiswal/Probability_distributions
+
 
 
 
