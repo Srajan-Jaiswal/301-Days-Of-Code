@@ -465,10 +465,9 @@ Worked on the minor Project Probability Distribution app in C.
 
 https://github.com/Srajan-Jaiswal/Probability_distributions
 
+# Day 60: 30th sept 2020
 
-
-
-
+https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/Cohen_Sutherland_line_clipping.c
 
 
 
