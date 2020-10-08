@@ -469,6 +469,19 @@ https://github.com/Srajan-Jaiswal/Probability_distributions
 
 https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/Cohen_Sutherland_line_clipping.c
 
+# Day 61: 1st oct 2020
+         
+         #   |
+         #   |
+         #   |
+         #   |
+         #  MID SEMESTER EXAMINATIONS
+         #   | 
+         #   |
+         #   |
+         #   |
+         
+# Day 73: 13th oct 2020
 
 
 
