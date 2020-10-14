@@ -492,3 +492,5 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/reverse.cpp
 Revising Basics of Graphs:
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Graphs_Standard_Ques/Basics_Graphs.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Connected_Components.cpp
