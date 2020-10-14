@@ -487,4 +487,8 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/reverse.cpp
 
+# Day 74: 14th oct 2020
 
+Revising Basics of Graphs:
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Graphs_Standard_Ques/Basics_Graphs.cpp
