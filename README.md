@@ -495,7 +495,7 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/G
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Connected_Components.cpp
 
-# Day 74: 14th oct 2020
+# Day 75: 15th oct 2020
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Graphs_Standard_Ques/Floyd_Warshall.cpp
 
