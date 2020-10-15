@@ -500,3 +500,5 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/H
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Graphs_Standard_Ques/Floyd_Warshall.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/number-of-islands.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Bishu%20and%20his%20Girlfriend.cpp
