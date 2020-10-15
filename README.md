@@ -502,3 +502,5 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/G
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/number-of-islands.cpp
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Bishu%20and%20his%20Girlfriend.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Monk%20and%20the%20Islands.cpp
