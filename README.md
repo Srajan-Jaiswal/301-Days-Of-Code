@@ -494,3 +494,9 @@ Revising Basics of Graphs:
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Graphs_Standard_Ques/Basics_Graphs.cpp
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Connected_Components.cpp
+
+# Day 74: 14th oct 2020
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Graphs_Standard_Ques/Floyd_Warshall.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/number-of-islands.cpp
