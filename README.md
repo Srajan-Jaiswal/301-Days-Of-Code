@@ -509,4 +509,6 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/H
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Subtree_Size.cpp
 
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Feasible%20relations.cpp
+
 
