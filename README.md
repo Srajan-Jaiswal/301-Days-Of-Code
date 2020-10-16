@@ -507,6 +507,6 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/H
 
 # Day 76: 16th oct 2020
 
-https://github.com/Srajan-Jaiswal/Practice_competitive_programming/tree/master/Hackerearth
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Subtree_Size.cpp
 
 
