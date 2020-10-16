@@ -504,3 +504,9 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/number-of-island
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Bishu%20and%20his%20Girlfriend.cpp
 
 https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/Hackerearth/Monk%20and%20the%20Islands.cpp
+
+# Day 76: 16th oct 2020
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/tree/master/Hackerearth
+
+
