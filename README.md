@@ -515,3 +515,10 @@ https://github.com/Srajan-Jaiswal/Practice_competitive_programming/blob/master/H
 
 https://github.com/Srajan-Jaiswal/QuizBuilder-App/tree/master/lib/helper
 
+# Day 78: 18th oct 2020
+
+https://github.com/Srajan-Jaiswal/Practice_competitive_programming/tree/master/Sorting%20Algorithms
+
+# Day 79: 19th oct 2020
+
+
