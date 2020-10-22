@@ -536,3 +536,7 @@ https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/Flood_Fill.c
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Social%20Networking%20Graph.cpp
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Graphs_Standard_Ques/Cycle_Detection_In_Undirected_Graph.cpp
+
+# Day 81  22nd oct 2020
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Toposort.cpp
