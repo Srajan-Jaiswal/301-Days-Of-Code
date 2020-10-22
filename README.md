@@ -542,3 +542,5 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Graphs_Standard_Q
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Toposort.cpp
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/DFS_2D-Grid.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/CC_2D_Grid.cpp
