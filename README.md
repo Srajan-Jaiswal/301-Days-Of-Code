@@ -554,3 +554,5 @@ https://github.com/Srajan-Jaiswal/30_Days_of_Cloud
 # Day 83  25th oct 2020
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Jungle%20Run.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/(V-IMP)%20Minimum%20steps%20to%20reach%20target%20by%20a%20Knight.cpp
