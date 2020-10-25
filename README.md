@@ -546,3 +546,11 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Topos
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/DFS_2D-Grid.cpp
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/CC_2D_Grid.cpp
+
+# Day 82  24th oct 2020
+
+https://github.com/Srajan-Jaiswal/30_Days_of_Cloud
+
+# Day 83  25th oct 2020
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Jungle%20Run.cpp
