@@ -573,3 +573,5 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/LCA_binary_tree
 
 DFS+Backtracking
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/all-paths-from-source-to-target.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/contiguous-array.cpp
