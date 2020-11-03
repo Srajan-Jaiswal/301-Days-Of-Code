@@ -600,6 +600,8 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Minimum%20Number
 leetcode medium
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Satisfiability%20of%20Equality%20Equations.cpp
 
-https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/find-bottom-left-tree-value.cpp
+leetcode medium: https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/find-bottom-left-tree-value.cpp
 
-https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Course%20Schedule%20IV.cpp
+Course Schedule IV(leetcode medium) : https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Course%20Schedule%20IV.cpp
+
+Course Schedule(leetcode medium) : https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/course-schedule.cpp
