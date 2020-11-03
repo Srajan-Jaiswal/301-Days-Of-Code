@@ -592,3 +592,5 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/number-of-operat
 # Day 90  2nd nov 2020
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/(Hard)Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes..cpp
