@@ -609,3 +609,5 @@ Course Schedule(leetcode medium) : https://github.com/Srajan-Jaiswal/Leetcode-Pr
 # Day 92  4th nov 2020
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Sorting%20Algorithms/Selection_sort.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp
