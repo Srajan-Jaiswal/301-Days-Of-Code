@@ -613,3 +613,8 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Sorting%20Algorit
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp
 
 https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/2D_Transformations.c
+
+# Day 93  5th nov 2020
+
+Leetcode Medium: (Approach used: Topological sort)
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Find%20Eventual%20Safe%20States.cpp
