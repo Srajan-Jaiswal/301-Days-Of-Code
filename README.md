@@ -628,4 +628,8 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Coder_Cup
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Graphs_Standard_Ques/Snake_and_Ladder_Boards.cpp
 
+# Day 95  7th nov 2020
+
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Happy%20Vertices.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Circular_Subarray_sum.cpp
