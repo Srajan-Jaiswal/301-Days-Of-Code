@@ -627,3 +627,5 @@ Secured 4th position  in Coder Cup contest organized by UPES CSA. Solutions of s
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Coder_Cup
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Graphs_Standard_Ques/Snake_and_Ladder_Boards.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Happy%20Vertices.cpp
