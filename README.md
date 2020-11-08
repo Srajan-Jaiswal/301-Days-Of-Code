@@ -635,3 +635,8 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Happy
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Circular_Subarray_sum.cpp
 
 Maximum length Bitonic Subarray: https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Hackerearth/Maximum_length_bitonic_subarray.cpp
+
+# Day 96  8th nov 2020
+
+String Compression:
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Strings%20Questions/String%20Compression.cpp
