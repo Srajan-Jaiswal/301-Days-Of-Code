@@ -643,3 +643,5 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Strings%20Questio
 
 Binary Search Tree:
 Leetcode(Easy) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/search-in-a-binary-search-tree.cpp
+
+Leetcode(Medium) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/insert-into-a-binary-search-tree.cpp
