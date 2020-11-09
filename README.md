@@ -640,3 +640,6 @@ Maximum length Bitonic Subarray: https://github.com/Srajan-Jaiswal/Practice_DS_A
 
 String Compression:
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Strings%20Questions/String%20Compression.cpp
+
+Binary Search Tree:
+Leetcode(Easy) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/search-in-a-binary-search-tree.cpp
