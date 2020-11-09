@@ -645,3 +645,5 @@ Binary Search Tree:
 Leetcode(Easy) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/search-in-a-binary-search-tree.cpp
 
 Leetcode(Medium) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/insert-into-a-binary-search-tree.cpp
+
+Leetcode(Medium) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/validate-binary-search-tree.cpp
