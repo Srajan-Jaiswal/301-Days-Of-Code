@@ -647,3 +647,9 @@ Leetcode(Easy) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master
 Leetcode(Medium) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/insert-into-a-binary-search-tree.cpp
 
 Leetcode(Medium) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/validate-binary-search-tree.cpp
+
+# Day 97  9th nov 2020
+
+Leetcode(Medium):  BST + Divide & Conquer
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Balance-a-binary-search-tree.cpp
+
