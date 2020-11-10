@@ -655,3 +655,4 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Balance-a-binary
 
 Leetcode(Easy): https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/trim-a-binary-search-tree.cpp
 
+Leetcode(medium): https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.cpp
