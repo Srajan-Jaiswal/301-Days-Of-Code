@@ -658,3 +658,8 @@ Leetcode(Easy): https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/
 Leetcode(medium): https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.cpp
 
 Leetcode(medium): https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/onstruct-binary-search-tree-from-preorder-traversal.cpp
+
+# Day 98  10th nov 2020
+
+Linkedin Coding Round Ques solved:
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Linked_In_Coding_Round.cpp
