@@ -653,3 +653,5 @@ Leetcode(Medium) - https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/mast
 Leetcode(Medium):  BST + Divide & Conquer
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Balance-a-binary-search-tree.cpp
 
+Leetcode(Easy): https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/trim-a-binary-search-tree.cpp
+
