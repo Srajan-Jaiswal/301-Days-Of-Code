@@ -668,3 +668,6 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Linked_In_Coding
 
 Leetcode (Medium): Catalan No. Concept in BST
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Unique%20Binary%20Search%20Trees.cpp
+
+Leetcode (Medium): 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp
