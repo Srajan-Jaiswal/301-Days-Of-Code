@@ -669,5 +669,7 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Linked_In_Coding
 Leetcode (Medium): Catalan No. Concept in BST
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Unique%20Binary%20Search%20Trees.cpp
 
-Leetcode (Medium): 
+Leetcode (Medium): All Elements in Two Binary Search Trees
+Optimised   O(nlogn)---->>>O(n) using inorder traversal with  merging two sorted arrays.
+
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp
