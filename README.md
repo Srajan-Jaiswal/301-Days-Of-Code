@@ -673,3 +673,9 @@ Leetcode (Medium): All Elements in Two Binary Search Trees
 Optimised   O(nlogn)---->>>O(n) using inorder traversal with  merging two sorted arrays.
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp
+
+# Day 99  11th nov 2020
+
+Leetcode (Hard): Recover Binary Search Tree
+O(n) solution.
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Recover%20Binary%20Search%20Tree.cpp
