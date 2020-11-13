@@ -674,8 +674,11 @@ Optimised   O(nlogn)---->>>O(n) using inorder traversal with  merging two sorted
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp
 
-# Day 99  11th nov 2020
+# Day 100  12th nov 2020
 
 Leetcode (Hard): Recover Binary Search Tree
 O(n) solution.
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Recover%20Binary%20Search%20Tree.cpp
+
+Leetcode(Easy) : Lowest Common Ancestor in BST: O(n) solution
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp
