@@ -705,3 +705,5 @@ Construct Binary Tree from Inorder and Postorder Traversal : O(n) Using(hashmap 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.cpp
 
 # Day 104  16th nov 2020
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp
