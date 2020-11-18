@@ -721,3 +721,9 @@ Implemented basic operations of Trie DS:
 -> word search      ->Auto-Completion feature
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Tries
+
+# Day 105  17th nov 2020
+
+Policy Based Data Structure in C++:
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Policy%20Based%20Data%20Structure
