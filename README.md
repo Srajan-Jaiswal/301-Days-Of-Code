@@ -707,3 +707,9 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Construct%20Bina
 # Day 104  16th nov 2020
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp
+
+# Day 105  17th nov 2020
+
+Diameter of Binary tree (Leetcode easy): O(n) DFS approach
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Diameter%20Of%20Binary%20Tree.cpp
