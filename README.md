@@ -713,3 +713,11 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Construct%20Bina
 Diameter of Binary tree (Leetcode easy): O(n) DFS approach
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Diameter%20Of%20Binary%20Tree.cpp
+
+Implemented basic operations of Trie DS:
+
+-> Insertion        ->Deletion  -> Prefix Search
+
+-> word search      ->Auto-Completion feature
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Tries
