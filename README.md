@@ -731,3 +731,7 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Policy%20Based%20
 LCS with  3 strings using dynamic programming.
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/DynamicProgramming/LCS%20with%203%20Strings.cpp
+
+K-ordered LCS : Dynamic Programming O(N*M) solution.
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/DynamicProgramming/Mancunian%20and%20K-Ordered%20LCS.cpp
