@@ -727,3 +727,7 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Tries
 Policy Based Data Structure in C++:
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Policy%20Based%20Data%20Structure
+
+LCS with  3 strings using dynamic programming.
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/DynamicProgramming/LCS%20with%203%20Strings.cpp
