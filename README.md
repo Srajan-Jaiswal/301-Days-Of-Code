@@ -735,3 +735,5 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/DynamicProgrammin
 K-ordered LCS : Dynamic Programming O(N*M) solution.
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/DynamicProgramming/Mancunian%20and%20K-Ordered%20LCS.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Dividing-array.cpp
