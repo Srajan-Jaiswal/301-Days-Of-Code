@@ -747,6 +747,7 @@ Tricky Permutations-
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Strings%20Questions/Tricky%20Permutations.cpp
 
 Participated in Indian Programming Camp(Codechef) -
+https://www.codechef.com/ipc/camp/2020#ipc-2020-track
 
 -> Persistent data structutres.
 
@@ -757,6 +758,7 @@ Participated in Indian Programming Camp(Codechef) -
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Zigzag%20Conversion.cpp
 
 Indian Programming Camp-
+https://www.codechef.com/ipc/camp/2020#ipc-2020-track
 
 -> Suffix Arrays(Data Structure)
 
