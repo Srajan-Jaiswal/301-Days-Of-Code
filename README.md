@@ -752,3 +752,20 @@ Participated in Indian Programming Camp(Codechef) -
 
 -> Linear Alzebra(Gaussian Elimination ALgorithm).
 
+# Day 109  21st nov 2020
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Zigzag%20Conversion.cpp
+
+Indian Programming Camp-
+
+-> Suffix Arrays(Data Structure)
+
+-> Centroid Decomposition
+
+# Day 110  22nd nov 2020
+
+Trapping Rain Water: Leetcode(Hard): O(n) solution:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Trapping%20Rain%20Water.cpp
+
+
