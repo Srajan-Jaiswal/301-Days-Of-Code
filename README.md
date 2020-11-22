@@ -736,4 +736,19 @@ K-ordered LCS : Dynamic Programming O(N*M) solution.
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/DynamicProgramming/Mancunian%20and%20K-Ordered%20LCS.cpp
 
+# Day 107  19th nov 2020
+
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Dividing-array.cpp
+
+# Day 108  20th nov 2020
+
+Tricky Permutations-
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Strings%20Questions/Tricky%20Permutations.cpp
+
+Participated in Indian Programming Camp(Codechef) -
+
+-> Persistent data structutres.
+
+-> Linear Alzebra(Gaussian Elimination ALgorithm).
+
