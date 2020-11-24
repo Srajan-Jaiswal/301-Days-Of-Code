@@ -770,4 +770,12 @@ Trapping Rain Water: Leetcode(Hard): O(n) solution:
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Trapping%20Rain%20Water.cpp
 
+# Day 111  23rd nov 2020
 
+# Day 112  24th nov 2020
+
+Solved Arrays Problems Leetcode(Hard):
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/k-diff-pairs-in-an-array.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Longest%20Mountain%20in%20Array.cpp
