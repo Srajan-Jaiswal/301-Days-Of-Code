@@ -779,3 +779,17 @@ Solved Arrays Problems Leetcode(Hard):
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/k-diff-pairs-in-an-array.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Longest%20Mountain%20in%20Array.cpp
+
+# Day 113  25th nov 2020
+
+
+# Day 114  26th nov 2020
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Hashing
+
+# Day 114  27th nov 2020
+
+https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/3D_transformation.c
+
+https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/3D_Shapes.c
+
