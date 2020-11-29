@@ -785,11 +785,29 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Longest%20Mounta
 
 # Day 114  26th nov 2020
 
+Revised hashing Data structure:
+
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/tree/master/Hashing
 
-# Day 114  27th nov 2020
+# Day 115  27th nov 2020
+
+Computer Graphics (3_D transformation code):
+
+Translation ; Rotation ; Reflection ; Shearing ; Scaling 
 
 https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/3D_transformation.c
 
+# Day 116  28th nov 2020
+
+Computer Graphics (3_D transformation code):
+
+Cube ; Cone ; Sphere
+
 https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/3D_Shapes.c
+
+# Day 117  29th nov 2020
+
+Leetcode (Hard) : O(n) time+ O(1)space
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/First%20Missing%20Positive.cpp
 
