@@ -817,3 +817,7 @@ Findinig Next permutation: Leetcode(medium): O(n) + constant space
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Next%20Permutation.cpp
 
+Participated in Educational Codeforces Round 99
+
+https://github.com/Srajan-Jaiswal/Codeforces-Contests/blob/master/B-Educational%20Codeforces%20Round%2099.cpp
+
