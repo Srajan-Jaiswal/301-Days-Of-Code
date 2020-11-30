@@ -811,3 +811,9 @@ Leetcode (Hard) : O(n) time+ O(1)space
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/First%20Missing%20Positive.cpp
 
+# Day 118  30th nov 2020
+
+Findinig Next permutation: Leetcode(medium): O(n) + constant space
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Next%20Permutation.cpp
+
