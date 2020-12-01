@@ -829,3 +829,7 @@ https://github.com/Srajan-Jaiswal/Codeforces-Contests/blob/master/B-Educational%
 Leetcode (Hard) : Recursion  Approach: Unoptimised: TLE
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/(Hard)Permutation%20Sequence.cpp
+
+Permutation Sequence (Less optimised approach) using next_permutation.
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Less_optimised_PermutationSequence.cpp
