@@ -834,7 +834,7 @@ Permutation Sequence (Less optimised approach) using next_permutation.
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Less_optimised_PermutationSequence.cpp
 
-# Day 119  1st dec 2020
+# Day 120  2nd dec 2020
 
 https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/Biezer_Curve.c
 
