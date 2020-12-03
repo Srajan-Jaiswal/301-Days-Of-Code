@@ -839,3 +839,9 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Less_optimised_P
 https://github.com/Srajan-Jaiswal/Graphics-In-C/blob/master/Biezer_Curve.c
 
 https://github.com/Srajan-Jaiswal/Python-Programming/tree/master
+
+# Day 121  3rd dec 2020
+
+3Sum -> O(N2) Two pointers modified optimised technique.
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/3Sum.cpp
