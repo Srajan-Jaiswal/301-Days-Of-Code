@@ -845,3 +845,8 @@ https://github.com/Srajan-Jaiswal/Python-Programming/tree/master
 3Sum -> O(N2) Two pointers modified optimised technique.
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/3Sum.cpp
+
+# Day 123  4th dec 2020
+
+https://github.com/Srajan-Jaiswal/Probability_distributions
+
