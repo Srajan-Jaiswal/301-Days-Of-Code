@@ -853,3 +853,14 @@ https://github.com/Srajan-Jaiswal/Probability_distributions
 # Day 124  5th dec 2020
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/Graphs_Standard_Ques/Reverse%20Min%20egdes%20in%20graph.cpp
+
+# Day 125  6th dec 2020
+
+Updated the code: 
+https://github.com/Srajan-Jaiswal/Probability_distributions/blob/master/Probability%20Distributions.c
+
+# Day 126  7th dec 2020
+
+Leetcode(easy):
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Array%20Partition%20I.cpp
