@@ -898,3 +898,8 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Shuffle%20String
 
 Leetcode(Easy): Binary search tree
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp
+
+# Day 135 16th dec 2020
+
+Leetcode(Easy): Binary tree
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Symmetric%20Tree.cpp
