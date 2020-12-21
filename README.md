@@ -923,3 +923,7 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Search%20in%20a%
 Maximum window sliding: Leetcode(Hard) 
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/(Hard)Sliding%20Window%20Maximum.cpp
+
+Leetcode(easy) : strings
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Count%20the%20Number%20of%20Consistent%20Strings.cpp
