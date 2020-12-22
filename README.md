@@ -932,3 +932,9 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Count%20the%20Nu
 
 Leetcode(easy) :
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Split%20a%20String%20in%20Balanced%20Strings.cpp
+
+# Day 141 22nd dec 2020
+
+Leetcode(medium) : Recursive Approach
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.cpp
