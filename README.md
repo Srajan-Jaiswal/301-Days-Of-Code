@@ -927,3 +927,8 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/(Hard)Sliding%20
 Leetcode(easy) : strings
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Count%20the%20Number%20of%20Consistent%20Strings.cpp
+
+# Day 140 21st dec 2020
+
+Leetcode(easy) :
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Split%20a%20String%20in%20Balanced%20Strings.cpp
