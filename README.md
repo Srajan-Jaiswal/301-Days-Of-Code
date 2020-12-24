@@ -938,3 +938,10 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Split%20a%20Stri
 Leetcode(medium) : Recursive Approach
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.cpp
+
+
+# Day 142 23rd dec 2020
+
+Leetcode(medium) : O(nlogn)
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Equalizing_Array_Elements.cpp
