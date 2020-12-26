@@ -963,3 +963,7 @@ https://github.com/Srajan-Jaiswal/CityTransfers-cabs
 Leetcode Easy: Rotate Strings
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Rotate%20String.cpp
+
+Leetcode Medium: Decode Strings (Using two stacks)
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Decode%20String.cpp
