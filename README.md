@@ -968,7 +968,7 @@ Leetcode Medium: Decode Strings (Using two stacks)
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Decode%20String.cpp
 
-# Day 145 26th dec 2020
+# Day 146 27th dec 2020
 
 Leetcode Easy: Brute force 
 
