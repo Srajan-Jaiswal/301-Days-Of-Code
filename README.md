@@ -945,3 +945,21 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/The%20k-th%20Lex
 Leetcode(medium) : O(nlogn)
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Equalizing_Array_Elements.cpp
+
+# Day 143 24th dec 2020
+
+Started an project on Android/IOS app based on the idea of online cabs.
+
+https://github.com/Srajan-Jaiswal/CityTransfers-cabs
+
+# Day 144 25th dec 2020
+
+Implemented the sign up page for the app.
+
+https://github.com/Srajan-Jaiswal/CityTransfers-cabs
+
+# Day 145 26th dec 2020
+
+Leetcode Easy: Rotate Strings
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Rotate%20String.cpp
