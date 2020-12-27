@@ -973,3 +973,7 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Decode%20String.
 Leetcode Easy: Brute force 
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/DI%20String%20Match.cpp
+
+Leetcode Easy: hashmap solution
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Reverse%20Vowels%20of%20a%20String.cpp
