@@ -990,7 +990,7 @@ Leetcode Medium:(Partition Labels) hashing based O(N) solution.
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Partition%20Labels.cpp
 
-# Day 148 29th dec 2020
+# Day 149 30th dec 2020
 
 Leetcode easy:Single number 
 
