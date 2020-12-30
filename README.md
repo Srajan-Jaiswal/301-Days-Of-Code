@@ -989,3 +989,9 @@ https://github.com/Srajan-Jaiswal/CityTransfers-cabs
 Leetcode Medium:(Partition Labels) hashing based O(N) solution.
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Partition%20Labels.cpp
+
+# Day 148 29th dec 2020
+
+Leetcode easy:Single number 
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Single%20Number.cpp
