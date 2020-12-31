@@ -1009,3 +1009,9 @@ https://github.com/Srajan-Jaiswal/CityTransfers-cabs
 Leetcode(Medium) : Group Anagrams
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Group_Anagrams.cpp
+
+# Day 151 1st jan 2020
+
+Connected the frontend of login and registration page with the backend.
+
+https://github.com/Srajan-Jaiswal/CityTransfers-cabs
