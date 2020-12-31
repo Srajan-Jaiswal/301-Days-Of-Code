@@ -1000,3 +1000,8 @@ Design a registration page for the app.
 
 https://github.com/Srajan-Jaiswal/CityTransfers-cabs
 
+# Day 150 31st dec 2020
+
+Connect the registration page from the firebase database.
+
+https://github.com/Srajan-Jaiswal/CityTransfers-cabs
