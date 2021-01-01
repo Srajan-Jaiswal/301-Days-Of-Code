@@ -1019,3 +1019,7 @@ https://github.com/Srajan-Jaiswal/CityTransfers-cabs
 Leetcode (Easy): Move Zeroes
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Move%20Zeroes.cpp
+
+Leetcode: Longest Common Prefix
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Longest%20Common%20Prefix.cpp
