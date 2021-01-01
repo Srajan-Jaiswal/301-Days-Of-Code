@@ -1015,3 +1015,7 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Group_Anagrams.c
 Connected the frontend of login and registration page with the backend.
 
 https://github.com/Srajan-Jaiswal/CityTransfers-cabs
+
+Leetcode (Easy): Move Zeroes
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Move%20Zeroes.cpp
