@@ -1030,4 +1030,6 @@ Integrating Google Map's API in the app and made frontend for main page.
 
 https://github.com/Srajan-Jaiswal/CityTransfers-cabs
 
+Leetcode (easy) Valid Anagram
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Valid%20Anagram.cpp
