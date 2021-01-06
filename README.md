@@ -1050,3 +1050,19 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/kth%20smallest%2
 
 Leetcode  (Medium):
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/4Sum%20II.cpp
+
+# Day 154 4th jan 2020
+
+# Day 155 5th jan 2020
+Added features to the UI of the mainpage. 
+
+https://github.com/Srajan-Jaiswal/CityTransfers-cabs
+
+# Day 156 6th jan 2020
+Solved Leetcode Problems: 
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Substrings_of_a_strings.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Is%20Substring.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Increasing%20Subsequences.cpp
