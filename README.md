@@ -1066,3 +1066,5 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Substrings_of_a_
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Is%20Substring.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Increasing%20Subsequences.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substring.cpp
