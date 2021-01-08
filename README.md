@@ -1077,6 +1077,14 @@ Read the codebase: SWOC @2021
 
 https://github.com/Srajan-Jaiswal/AapKaVaidya
 
+# Day 158 8th jan 2020
+
+Solved Leetcode(medium): 
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Word%20Search.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Permutations.cpp
+
 
 
 
