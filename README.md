@@ -1070,3 +1070,17 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Increasing%20Sub
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substring.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Smallest%20Subsequence%20of%20Distinct%20Characters.cpp
+
+# Day 157 7th jan 2020
+
+Read the codebase: SWOC @2021
+
+https://github.com/Srajan-Jaiswal/AapKaVaidya
+
+
+
+
+
+
+
+
