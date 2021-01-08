@@ -1085,7 +1085,9 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Word%20Search.cp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Permutations.cpp
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Permutations%20II.cpp
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Combination%20Sum(medium).cpp
 
 
 
