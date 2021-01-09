@@ -1101,4 +1101,4 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Majority%20Eleme
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Reverse%20words.cpp
 
-
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Count_Triplets.cpp
