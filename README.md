@@ -1097,7 +1097,8 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Letter%20Combina
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Intersection%20of%20Two%20Arrays%20II.cpp
 
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Majority%20Element.cpp
 
-
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Reverse%20words.cpp
 
 
