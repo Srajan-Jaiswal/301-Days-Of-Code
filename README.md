@@ -1129,3 +1129,6 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Find%20the%20dup
 
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Count%20the%20paths.cpp
 
+# Day 162 12th jan 2020
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp
