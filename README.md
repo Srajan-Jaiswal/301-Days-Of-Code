@@ -1105,6 +1105,8 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_
 
 # Day 160 10th jan 2020
 
+Solved Coding questions:
+
 https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Activity_Selection.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Count%20Primes.cpp
@@ -1113,5 +1115,17 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/word_break.cpp
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/O(N)-Optimised-longest-substring-with-at-least-k-repeating-characters.cpp
 
+# Day 161 11th jan 2020
 
+Solved Coding questions:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Rotate%20Image.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Max%20Consecutive%20Ones
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Consecutive%20Characters.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Find%20the%20duplicates.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Count%20the%20paths.cpp
 
