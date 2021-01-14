@@ -1154,7 +1154,10 @@ Solved leetcode:
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Subarray%20Sums%20Divisible%20by%20K.cpp
 
-# Day 163 13th jan 2020
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Excel%20Sheet%20Column%20Number.cpp
+
+
+# Day 164 14th jan 2020
 
 Integrated google map api with the app.
 
