@@ -1,7 +1,8 @@
 # I'm in progess #301DaysOfCode Challenge.
 
-![#301DaysOfCode Logo](https://github.com/akshay1337/301-Days-Of-Code/blob/master/301DaysOfCode-Badges/301days%20logo-08.jpg)
-
+<p float="left">
+  <img src="![#301DaysOfCode Logo](https://github.com/akshay1337/301-Days-Of-Code/blob/master/301DaysOfCode-Badges/301days%20logo-08.jpg)" width="300" >
+</p>
 
 # This repository contains day to day  track of my coding activities.
 
