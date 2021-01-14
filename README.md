@@ -1,9 +1,9 @@
-# I've joined the #301DaysOfCode Challenge.
+# I'm in progess #301DaysOfCode Challenge.
 
 ![#301DaysOfCode Logo](https://github.com/akshay1337/301-Days-Of-Code/blob/master/301DaysOfCode-Badges/301days%20logo-08.jpg)
 
 
-This repository contains programming questions with consistency
+This repository contains day to day  track of my coding activities.
 
 # Day 1 : 1st aug 2020 
 Code String problems conversion of Prefix to Infix and Infix to Postfix.
