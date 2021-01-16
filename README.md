@@ -1163,3 +1163,22 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Contains%20Dupli
 Integrated google map api with the app.
 
 https://github.com/Srajan-Jaiswal/CityTransfers-cabs
+
+# Day 165 15th jan 2020
+
+Worked on intregating apis:
+
+https://github.com/Srajan-Jaiswal/CityTransfers-cabs
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp
+
+# Day 166 16th jan 2020
+
+Solved leetcode:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Intersection%20of%20Two%20Arrays.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Max%20Consecutive%20Ones%20III.cpp
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Find%20All%20Anagrams%20in%20a%20String.cpp
+
