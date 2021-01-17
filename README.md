@@ -1189,3 +1189,5 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_
 # Day 167 17th jan 2020
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Largest%20Subarray%20of%20sum%20k.cpp
+
+https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_Coding_Questions/Longest%20K%20unique%20characters%20substring.cpp
