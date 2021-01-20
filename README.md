@@ -1194,6 +1194,10 @@ https://github.com/Srajan-Jaiswal/Practice_DS_ALGO/blob/master/GFG%20%20Must_Do_
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Longest%20Substring%20Without%20Repeating%20Characters.cpp
 
+# Day 167 17th jan 2020
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Sqrt(x).cpp
+
 # Day 169 19th jan 2020
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/N-Queens.cpp
