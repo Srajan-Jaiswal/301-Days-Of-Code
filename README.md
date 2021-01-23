@@ -1201,3 +1201,19 @@ https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/Sqrt(x).cpp
 # Day 169 19th jan 2020
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems/blob/master/N-Queens.cpp
+
+# Day 170 20th jan 2020
+
+         #   |
+         #   |
+         #   |
+         #  The 3rd Technovation Hackathon
+         #   | 
+         #   |
+         #   |
+ https://github.com/Srajan-Jaiswal/Smart-Survillance-System
+
+# Day 175 26th jan 2020
+
+
+
