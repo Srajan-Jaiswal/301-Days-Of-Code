@@ -1627,7 +1627,33 @@ Solved Leetcode Problems:
 
 https://github.com/Srajan-Jaiswal/Leetcode-Problems
 
-# Day 232 2nd Apr 2020
+# Day 240 2nd Apr 2020
+
+Solved Leetcode Problems:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems
+
+
+# Day 241 3rd Apr 2020
+
+Solved Leetcode Problems:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems
+
+# Day 242 4th Apr 2020
+
+Solved Leetcode Problems:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems
+
+
+# Day 243 5th Apr 2020
+
+Solved Leetcode Problems:
+
+https://github.com/Srajan-Jaiswal/Leetcode-Problems
+
+# Day 244 6th Apr 2020
 
 Solved Leetcode Problems:
 
